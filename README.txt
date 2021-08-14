@@ -4,7 +4,7 @@ firstly install these packages
    1. requests
    2. bs4
    3. win10toast
-   4. pandas
+   4. pymysql
 
 If already installed leave it
 
