@@ -1,15 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[1]:
-
-
-pip install pymysql
-
-
-# In[12]:
-
-
 import pymysql
 import requests
 from bs4 import BeautifulSoup as bs
@@ -47,22 +38,3 @@ def update(country):
 #countries=['us','india','china','brazil','france','italy','japan','uk','germany','spain','iran','canada','singapore']
 country=input("Input the country for notification : ")
 update(country)
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
